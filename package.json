@@ -1,17 +1,19 @@
 {
-  "name": "ramvegetable",
-  "version": "0.1.0",
-  "description": "Ram vegetable current order and issue potential fix",
-  "main": "index.js",
+  "name": "ram-vegetable-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"No tests specified\" && exit 0"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/N3RO99/RamVegetable.git"
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.383.0"
   },
-  "author": "N3RO99",
-  "license": "MIT",
-  "dependencies": {}
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
 }
