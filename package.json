@@ -1,0 +1,17 @@
+{
+  "name": "ramvegetable",
+  "version": "0.1.0",
+  "description": "Ram vegetable current order and issue potential fix",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3RO99/RamVegetable.git"
+  },
+  "author": "N3RO99",
+  "license": "MIT",
+  "dependencies": {}
+}
