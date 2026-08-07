@@ -165,7 +165,7 @@ export default function GreenlineOrderDemo() {
             </div>
           </div>
           <div style={{ fontSize: 12, color: "#CFE0D2", fontFamily: "'Courier New', monospace" }}>
-            DEMO — WHOLESALE ORDER BOARD
+            ORDER DEMO SITE
           </div>
         </div>
       </header>
