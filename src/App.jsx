@@ -247,7 +247,7 @@ export default function GreenlineOrderDemo() {
 
               {cartItems.length === 0 ? (
                 <div style={{ fontSize: 13, color: colors.inkSoft, padding: "10px 0" }}>
-                  No items yet — add stock from the board to build an order.
+                  No items yet, add stock from the board to build an order.
                 </div>
               ) : (
                 <div style={{ display: "flex", flexDirection: "column", gap: 10, marginBottom: 14 }}>
